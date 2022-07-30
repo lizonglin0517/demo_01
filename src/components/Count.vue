@@ -27,7 +27,8 @@ export default {
         return {
             num: this.init
         }
-    },methods: {
+    },
+    methods: {
         show(){
             console.log(this)
         }
